@@ -1,2 +1,2 @@
 # HigharcheyEngine
-A Video Game engine for Python Devs
+A Video Game engine Created in python.
